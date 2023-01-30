@@ -1,4 +1,4 @@
-# Challenge 1 - Week 1
+# Code Refactoring - Horiseon
 
 ## Name: Mihai Stan
 
