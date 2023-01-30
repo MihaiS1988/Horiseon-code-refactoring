@@ -21,3 +21,7 @@ The following changes have been added to the code:
 * https://mihais1988.github.io/Bootcamp-week1-challenge/ (GitHub page)
 
 * https://github.com/MihaiS1988/Bootcamp-week1-challenge (GitHub repository)
+
+## Preview of website
+
+![image](https://user-images.githubusercontent.com/117821906/215460967-37ddb5ee-236d-4a88-98c0-bfe96f67e283.png)
